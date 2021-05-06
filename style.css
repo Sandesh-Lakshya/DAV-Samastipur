@@ -1,0 +1,136 @@
+body {
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#contactUs {
+    background-color: navy;
+    text-align: left;
+}
+
+.heading {
+    text-shadow: 4px 4px 4px #000033;
+}
+
+#map {
+    border-radius: 20px;
+}
+
+#a {
+    color: white;
+    padding-left: 100px;
+    text-align: inherit;
+}
+
+.line {
+    width: 100%;
+    height: 3px;
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: 4px 4px 4px #000033;
+}
+
+#details {
+    color: orange;
+    padding-top: 20px;
+    float: right;
+    margin-right: 20px;
+}
+
+#campusLife {
+    background-color: firebrick;
+    text-align: left;
+}
+
+.Card {
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    box-shadow: 6px 6px 10px #44020c;
+    width: 50%;
+    margin: 0 auto;
+    background: rgb(255, 0, 0);
+    background: linear-gradient(180deg, rgba(255, 0, 0, 1) 12%, rgba(255, 40, 40, 1) 22%, rgba(255, 80, 80, 1) 50%, rgba(255, 40, 40, 1) 78%, rgba(255, 0, 0, 1) 88%);
+    text-align: center;
+}
+
+.Card img {
+    border-top-left-radius: 25px;
+    width: 100%;
+    height: 50%;
+}
+
+.Card p {
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}
+
+#achievements {
+    background-color: blueviolet;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    background-color: darkviolet;
+}
+
+#achievementsID {
+    padding-bottom: 10px;
+}
+
+.Success {
+    font-weight: 600;
+    font-size: 15px;
+    color: deeppink;
+    font-family: 'Coda Caption', sans-serif;
+    margin-bottom: 30px;
+}
+
+.comment {
+    font-family: 'Architects Daughter', sans-serif;
+}
+
+section {
+    text-align: left;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#whatsNew {
+    background-color: #ffb800;
+}
+
+.l-g-i-s {
+    background-color: #ff5200;
+    color: white;
+    font-family: 'Jomhuria', cursive;
+    font-size: 32px;
+    margin-bottom: 50px;
+}
+
+.l-g-i-s img {
+    border-radius: 50px;
+    width: 450px;
+    float: left;
+}
+
+.l-g-i-s h4 {
+    font-family: 'Freckle Face', cursive;
+    font-size: 35px;
+}
+
+.Button:hover {
+    background-color: #e01e1e;
+}
