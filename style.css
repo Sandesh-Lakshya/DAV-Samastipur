@@ -9,6 +9,7 @@ html {
 #contactUs {
     background-color: navy;
     text-align: left;
+    display: inline-block;
 }
 
 .heading {
@@ -36,7 +37,7 @@ html {
     color: orange;
     padding-top: 20px;
     float: right;
-    margin-right: 20px;
+    margin-right: 0px;
 }
 
 #campusLife {
@@ -133,4 +134,87 @@ section {
 
 .Button:hover {
     background-color: #e01e1e;
+}
+
+#alumni {
+    background-color: limegreen;
+}
+
+.line2 {
+    height: 2px;
+    width: 100%;
+    background-color: white;
+    margin-bottom: 5px;
+    margin-top: 0px;
+    padding-left: 2%;
+    padding-right: 4%;
+}
+
+.m img {
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 200px;
+}
+
+.m {
+    text-align: center;
+    border-color: white;
+    border-width: thick;
+}
+
+.m p {
+    background-color: forestgreen;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-top: 0px;
+    padding-bottom: 5px;
+    border-bottom-color: white;
+    border-bottom-width: medium;
+    color: white;
+    font-family: 'Pacifico', cursive;
+}
+
+.modal img {
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.modal {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.modal h4 {
+    font-family: 'Reggae One', cursive;
+    font-size: 30px;
+}
+
+.modal p {
+    margin-top: 10px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 14px;
+}
+
+.modal a {
+    text-decoration: none;
+    color: blue;
+    font-family: 'Fascinate', cursive;
+}
+
+.modal a:hover {
+    text-decoration: none;
+}
+
+#p {
+    margin-left: 25%;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+#footer {
+    height: 20px;
+    background-color: white;
 }
